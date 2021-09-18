@@ -1,0 +1,25 @@
+import '../models/contact_model.dart';
+
+List<ContactModel> contactList = [
+  ContactModel(name: "User 01", number: "00812345678"),
+  ContactModel(name: "User 02", number: "00812345678"),
+  ContactModel(name: "User 03", number: "00812345678"),
+  ContactModel(name: "User 04", number: "00812345678"),
+  ContactModel(name: "User 05", number: "00812345678"),
+  ContactModel(name: "User 06", number: "00812345678"),
+  ContactModel(name: "User 07", number: "00812345678"),
+  ContactModel(name: "User 08", number: "00812345678"),
+  ContactModel(name: "User 09", number: "00812345678"),
+  ContactModel(name: "User 10", number: "00812345678"),
+  ContactModel(name: "User 11", number: "00812345678"),
+  ContactModel(name: "User 12", number: "00812345678"),
+  ContactModel(name: "User 13", number: "00812345678"),
+  ContactModel(name: "User 14", number: "00812345678"),
+  ContactModel(name: "User 15", number: "00812345678"),
+  ContactModel(name: "User 16", number: "00812345678"),
+  ContactModel(name: "User 17", number: "00812345678"),
+  ContactModel(name: "User 18", number: "00812345678"),
+  ContactModel(name: "User 19", number: "00812345678"),
+  ContactModel(name: "User 20", number: "00812345678"),
+  ContactModel(name: "User 21", number: "00812345678"),
+];
